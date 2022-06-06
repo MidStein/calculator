@@ -36,7 +36,8 @@ body {
     background:rgba(192, 128, 128);
     width: 576px;
 }
-.row .operation {
+.row .operation,
+.row .equals {
     background: rgba(128, 192, 192);
 }
 .row .decimal {
